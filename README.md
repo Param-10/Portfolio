@@ -44,15 +44,15 @@ To run this project locally:
 
 ## 🌐 Deployment
 
-This project is deployed at [YourDomainName.com](https://www.YourDomainName.com).
+This project is deployed at [paramveerbhele.com](https://www.paramveerbhele.com/).
 
 ## 📬 Contact
 
 Feel free to reach out to me through the contact form on the website or directly at:
 
 - Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- LinkedIn: [Paramveer Singh Bhele](https://www.linkedin.com/in/paramveer-singh-bhele/)
+- GitHub: [Param-10](https://github.com/Param-10)
 
 ## 🙏 Acknowledgements
 
