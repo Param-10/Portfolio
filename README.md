@@ -50,7 +50,7 @@ This project is deployed at [paramveerbhele.com](https://www.paramveerbhele.com/
 
 Feel free to reach out to me through the contact form on the website or directly at:
 
-- Email: your.email@example.com
+- Email: bheleparamveer@gmail.com
 - LinkedIn: [Paramveer Singh Bhele](https://www.linkedin.com/in/paramveer-singh-bhele/)
 - GitHub: [Param-10](https://github.com/Param-10)
 
