@@ -2,7 +2,8 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-/* You can add any global styles here */
 body {
     cursor: none;
-}
+    background-color: #0B0B45;
+    color: white;
+  }

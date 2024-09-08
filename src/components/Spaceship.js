@@ -7,14 +7,17 @@ const Spaceship = () => {
 
   return (
     <motion.div 
-      className="w-10 h-10 bg-blue-500 rounded-full fixed pointer-events-none z-50"
+      className="fixed pointer-events-none z-50"
       style={{
-        backgroundImage: `url('/spaceship.png')`,  // You'll need to add this image
-        backgroundSize: 'cover',
-        backgroundPosition: 'center'
+        backgroundImage: `url('/spaceship.png')`,
+        backgroundSize: 'contain',
+        backgroundRepeat: 'no-repeat',
+        backgroundPosition: 'center',
+        width: '50px',  // Adjust these values based on your image size
+        height: '50px'
       }}
-      animate={{ x: position.x - 20, y: position.y - 20 }}
-      transition={{ type: "spring", stiffness: 1000, damping: 50 }}
+      animate={{ x: position.x - 25, y: position.y - 25 }}
+      transition={{ type: "spring", stiffness: 500, damping: 25 }}
     />
   );
 };
